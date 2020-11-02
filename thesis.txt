@@ -13,3 +13,7 @@ An extensive literature record of the field before my impacts.
 ## Methods
 
 Perfectly documented, highly reproducible and completely bug free workflow. 
+
+## Results
+
+Unexpected findings - maybe there is a bug in the code after all...
