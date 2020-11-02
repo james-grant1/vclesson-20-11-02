@@ -22,6 +22,10 @@ Unexpected findings - maybe there is a bug in the code after all...
 
 This work had changed the face of the subject and revolutionised the future of green technologies.
 
+## References
+
+My papers that I wrote during my PhD.
+
 ## Acknowledgements
 
 Thank to my fantastic supervisory team.
