@@ -9,3 +9,7 @@ A brief summary or the staggering contributions I have made to science.
 ## Introduction
 
 An extensive literature record of the field before my impacts.
+
+## Methods
+
+Perfectly documented, highly reproducible and completely bug free workflow. 
