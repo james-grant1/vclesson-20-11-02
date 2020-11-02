@@ -21,3 +21,7 @@ Unexpected findings - maybe there is a bug in the code after all...
 ## Conclusions
 
 This work had changed the face of the subject and revolutionised the future of green technologies.
+
+## Acknowledgements
+
+Thank to my fantastic supervisory team.
