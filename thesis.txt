@@ -13,3 +13,7 @@ An extensive literature record of the field before my impacts.
 ## Methods
 
 Perfectly documented, highly reproducible and completely bug free workflow. 
+
+## Conclusions
+
+This work had changed the face of the subject and revolutionised the future of green technologies.
